@@ -1,5 +1,5 @@
 # Kitten-me
-A cat themed social network, similar to twitter.
+A cat themed social network I did in the semester break. Very similar to twitter.
 
 Created with React and Redux. DB is in Firebase. Also user are Busboy, Dicer and Streamsearch.
 
